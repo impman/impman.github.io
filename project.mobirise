@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-20_2156",
-    "currentPage": "index.html",
+    "currentPage": "listingflyer.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,7 +14,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 150,
+    "uniqCompNum": 157,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/impishlogo2.svg",
@@ -31,6 +31,77 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "30",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/robot.jpg",
+              "link": "combot.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "30LB COMBAT ROBOT",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000",
+              "font-size": "30px",
+              "text-align": "right"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "right",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2m"
+        },
         {
           "_styles": {
             ".mbr-brand__name": {
@@ -231,7 +302,7 @@
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showMeta": false,
+            "showMeta": true,
             "showText": false,
             "showButtons": false,
             "inverse": false,
@@ -256,8 +327,8 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/robot.jpg",
-              "link": "combot.html",
+              "src": "@PROJECT_PATH@/assets/images/assemblyexplode-1400x657.png",
+              "link": "extrusionbraider.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -274,7 +345,7 @@
               "size": 0
             }
           },
-          "title": "30LB COMBAT ROBOT",
+          "title": "PET TREAT EXTRUSION BRAIDER",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
@@ -292,10 +363,10 @@
             }
           },
           "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
+          "meta": "MindSumo challenge winner - Top 10%",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-2m"
+          "_anchor": "msg-box4-3n"
         },
         {
           "_inherit": "msg-box5",
@@ -391,7 +462,7 @@
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showMeta": true,
+            "showMeta": false,
             "showText": false,
             "showButtons": false,
             "inverse": false,
@@ -416,11 +487,10 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/assemblyexplode-1400x657.png",
-              "link": "extrusionbraider.html",
+              "src": "@PROJECT_PATH@/assets/images/5216-golden-rd-pleasanton-v8-1400x1812.png",
+              "link": "listingflyer.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -434,7 +504,7 @@
               "size": 0
             }
           },
-          "title": "PET TREAT EXTRUSION BRAIDER",
+          "title": "REAL ESTATE LISTING FLYER",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
@@ -452,10 +522,10 @@
             }
           },
           "headerAlign": "left",
-          "meta": "MindSumo challenge winner - Top 10%",
+          "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3n"
+          "_anchor": "msg-box4-4b"
         }
       ]
     },
@@ -525,7 +595,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "CoreGains Explainer Video",
+          "title": "COREGAINS EXPLAINER VIDEO",
           "meta": "Advertising and Imagery with Motion Graphics",
           "_tags": [
             "Theme"
@@ -823,7 +893,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Pop'n Music Controller Build",
+          "title": "POP'N MUSIC CONTROLLER BUILD",
           "meta": "A personal project in which I build a replica of the controller for the arcade game Pop’n Music on a college budget.",
           "_tags": [
             "Theme"
@@ -1378,7 +1448,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "30lb Combot",
+          "title": "30LB COMBOT",
           "meta": "Battlebots is well and alive at the University of Illinois.",
           "_tags": [
             "Theme"
@@ -1655,7 +1725,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "RIP10 Banner and Marquee",
+          "title": "RIP10 BANNER AND MARQUEE",
           "meta": "Promotional art for a local dance game competition.",
           "_tags": [
             "Theme"
@@ -1831,7 +1901,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Pet Treat Extrusion Braider",
+          "title": "PET TREAT EXTRUSION BRAIDER",
           "meta": "Decorating treats with mechanical extrusion heads",
           "_tags": [
             "Theme"
@@ -2232,6 +2302,145 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-38"
+        }
+      ]
+    },
+    "listingflyer.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Real Estate Listing Flyer",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#475577"
+            },
+            ".mbr-navbar__section": {
+              "background": "#475577"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "30px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#475577",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">PORTFOLIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">OSCAR WONG</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-46"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#475577",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<a class=\"mbr-footer__link text-white\" href=\"index.html\">Portfolio</a>&nbsp;| <a class=\"mbr-footer__link text-white\" href=\"about.html\">About</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-47"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "REAL ESTATE LISTING FLYER",
+          "meta": "A sample of flyer-making capabilities and template creation.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-48"
+        },
+        {
+          "text": "A flyer for a home listing done for a local real estate business. The flyer was generated with Adobe InDesign and saved to a template, so that flyers for future listings can be easily created with updated photos and descriptions.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "DIV": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-49"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/a-1400x1812.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4c"
         }
       ]
     }
