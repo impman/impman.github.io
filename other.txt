@@ -1,0 +1,11 @@
+coregains.html
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoregainsbox%2Fvideos%2F327522267675866%2F&show_text=0&width=560" width="560" height="420" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+bootstrap.min.css
+.mbr-figure--adapted:hover{
+opacity: 0.7;
+    padding-top: 9px;
+    padding-right: 12px;
+    padding-bottom: 9px;
+    padding-left: 12	px;
+}
