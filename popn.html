@@ -1,0 +1,161 @@
+<html>
+
+<head>
+  <!-- Material Design Lite -->
+  <script src="https://storage.googleapis.com/code.getmdl.io/1.0.2/material.min.js"></script>
+  <link rel="stylesheet" href="css/material.min.css">
+  <!-- Material Design icon font -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+
+<body>
+<!-- No header, and the drawer stays open on larger screens (fixed drawer). -->
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-drawer">
+  <div class="mdl-layout__drawer">
+    <span class="mdl-layout-title">Oscar Wong</span>
+    <nav class="mdl-navigation">
+      <a class="mdl-navigation__link" href="index.html">Portfolio</a>
+      <a class="mdl-navigation__link" href="about.html">About</a>
+    </nav>
+  </div>
+  <main class="mdl-layout__content mdl-color--blue-grey-700">
+    <div class="page-content"><!-- Your content goes here -->
+        <main class="mdl-layout__content">
+            <div class="mdl-grid portfolio-max-width">
+                <div class="mdl-cell mdl-cell--12-col mdl-card mdl-shadow--4dp">
+                    <div class="mdl-card__title">
+                        <h2 class="mdl-card__title-text">Pop'n Music Controller Build</h2>
+                    </div>
+                    <div class="mdl-grid portfolio-copy">
+						<!-- <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Introduction</h3> -->
+						<div class="mdl-cell mdl-cell--12-col mdl-card__supporting-text no-padding ">
+                            <h5>
+                                A personal project in which I build a replica of the controller for the arcade game Pop’n Music on a college budget.
+                            </h5>
+                        </div>
+						<div class="mdl-cell mdl-cell--6-col mdl-card__supporting-text no-padding">
+                            <p>
+                                The first part of this project was getting the buttons. Official buttons by Sanwa Denshi do exist, but are far outside of my price range at over 40 dollars each (plus international shipping), so I ordered some identically dimensioned buttons from China off eBay and waited for them to arrive a few weeks later. These came with LEDs and microswitches, which would allow me to detect button presses.
+                            </p>
+                        </div>
+                        <div class="mdl-cell mdl-cell--3-col mdl-card__supporting-text no-padding">
+                            <p>
+                                The buttons, microswitches, and LEDs, fresh out of the box.
+								<br><br>
+								Total cost so far: $75.26
+                            </p>
+                        </div>
+                        <div class="mdl-cell mdl-cell--3-col">
+                            <img class="article-image" src=" images/popn/1.jpg" border="0" alt="">
+                        </div>
+						<!-- Line 2 -->
+                        <div class="mdl-cell mdl-cell--3-col">
+                            <img class="article-image" src=" images/popn/2.jpg" border="0" alt="">
+                        </div>
+                        <div class="mdl-cell mdl-cell--2-col mdl-card__supporting-text no-padding">
+                            <p>
+								Parts from the ECE Supply Center.
+								<br><br>
+								Cost of parts: $10.51
+								<br>
+								Total cost so far: $85.77
+                            </p>
+                        </div>		
+						<div class="mdl-cell mdl-cell--6-col mdl-card__supporting-text no-padding">
+                            <p>
+                                The next part was getting the wires and other electronic components necessary to interface these buttons with my computer. Since I do not own a soldering iron, I decided to use quick-connect crimp terminals, which would create solid connections to the switches and allow me to swap out components for future repair. I already had a spare Arduino and USB cable sitting around, which I would wire the buttons to. A quick trip to the ECE Supply Center provided me with a spool of 22ga solid core wire, crimp connectors in two different sizes (for the microswitch and LED terminals), and some rubber feet, which would hold the entire controller steady.
+                            </p>
+                        </div>						
+						<div class="mdl-cell mdl-cell--12-col mdl-card__supporting-text no-padding">
+                            <p>
+                                Next, I needed to mount the buttons to a faceplate of some sort (these are typically made out of MDF, acrylic, sheet metal, etc) before I could wire them up. I was conveniently provided with dimensions of the buttons from the eBay listing, which I confirmed to be at least somewhat accurate. I also found a diagram of the button spacings for the actual controller online.
+                            </p>
+                        </div>
+						<!-- Line 3 -->
+                        <div class="mdl-cell mdl-cell--3-col">
+                            <img class="article-image" src=" images/popn/3.jpg" border="0" alt="">
+                        </div>
+                        <div class="mdl-cell mdl-cell--7-col">
+                            <img class="article-image" src=" images/popn/4.png" border="0" alt="">
+                        </div>						
+                        <div class="mdl-cell mdl-cell--2-col mdl-card__supporting-text no-padding">
+                            <p>
+								Button dimensions, showing additional mounting nubs to maintain orientation, and a button spacing diagram for the actual controller, taken off an actual arcade machine.
+							</p>
+                        </div>
+						<!-- Line 4 -->
+                        <div class="mdl-cell mdl-cell--5-col mdl-card__supporting-text no-padding">
+                            <p>
+								The easiest way to create arbitrary, well dimensioned cuts on a flat sheet of non-reflective material is a laser cutter, which the school has available at the Fab Lab. They take PDF files, and will vector cut any lines with a thickness of .001 inches. With this in mind, I created a PDF file in Illustrator that would cut out holes with the given dimensions spaced correctly apart. One requirement was that the controller would have to fit into a space no larger than 24” - the length of the largest luggage I have. Unfortunately, since the proper dimensions of the controller exceed 28”, I designed it to be laser cut on two sheets, each made of three parts. This would assemble together into a single solid unit, and could later be disassembled into 6 separate parts, with the longest at 22”.
+								<br><br>
+								In this overview of the entire Illustrator file, the green lines are vector cuts on the top sheet, the dark blue lines are vector cuts on the bottom sheet, and the dark grey and black lines are to be rastered on the top sheet, simulating the arcade artwork. Red lines are vector cuts on both sheets for nuts and bolts to hold the whole thing together
+							</p>
+                        </div>
+                        <div class="mdl-cell mdl-cell--7-col">
+                            <img class="article-image" src=" images/popn/5.png" border="0" alt="">
+                        </div>	
+						<!-- Line 5 -->
+                        <div class="mdl-cell mdl-cell--7-col mdl-card__supporting-text no-padding">
+                            <p>
+								The next step was actually getting massive sheets of acrylic. Unfortunately, since 12x30” is not a standard size, I had to head to the next largest size - a massive 18x32”, which was one and a half times the acrylic I needed. I picked two sheets up at Blackline Supply, one black and one clear, so that the engraved design on the clear layer would pop out in contrast.
+								<br><br>
+								Cost of acrylic: $47.42
+								<br>
+								Total cost so far: $133.19
+								<br><br>
+								I followed this up with a trip to the Fab Lab to use their laser cutter. Overall it took about 80 minutes to cut and engrave both sheets; the Fab Lab charges a dollar per 5 minutes of laser time. This sums up external expenses.
+								<br><br>
+								Cost of laser time: $16.00
+								<br>
+								Final cost: $149.19
+
+							</p>
+                        </div>
+                        <div class="mdl-cell mdl-cell--5-col">
+                            <img class="article-image" src=" images/popn/8.jpg" border="0" alt="">
+                        </div>	
+						<!-- Line 6 -->
+                        <div class="mdl-cell mdl-cell--6-col">
+                            <img class="article-image" src=" images/popn/9.jpg" border="0" alt="">
+                        </div>	
+                        <div class="mdl-cell mdl-cell--6-col">
+                            <img class="article-image" src=" images/popn/10.jpg" border="0" alt="">
+                        </div>	
+                        <div class="mdl-cell mdl-cell--12-col mdl-card__supporting-text no-padding">
+                            <p>
+								The cut and rastered sheets: the black bottom sheet and the top clear rastered sheet, with its protective paper backing still on. Plenty of scrap acrylic left over for future projects!
+							</p>
+                        </div>
+						<!-- Line 7 -->
+                        <div class="mdl-cell mdl-cell--6-col mdl-card__supporting-text no-padding">
+                            <p>
+								Next up was assembly of the controller body. I had two 12x15x3” boxes laying around, so I stitched them together with some long bolts to make a 12x30” box, which was just the right size for the acrylic sheets I had cut out. The acrylic was then assembled on top and loosely bolted into place after cutting out holes in the cardboard box. The buttons were then inserted and and tightened, along with the bolts.
+								<br><br>
+								Afterwards was wiring. I strapped the Arduino down with a piece of cardboard to stop it from shifting around, then proceeded to wire up the buttons using the crimp connectors and wire I bought previously at the ECE Supply Center. I daisy chained all the LED Highs to the 5V port, and also daisy chained all the microswitch grounds. Then, for each button, I connected LED Low, the microswitch NO terminal, and a convenient port on the Arduino.
+
+							</p>
+                        </div>						
+                        <div class="mdl-cell mdl-cell--6-col">
+                            <img class="article-image" src=" images/popn/13.jpg" border="0" alt="">
+                        </div>						
+						<!-- Line 8 -->					
+                        <div class="mdl-cell mdl-cell--4-col">
+                            <img class="article-image" src=" images/popn/14.png" border="0" alt="">
+                        </div>							
+                        <div class="mdl-cell mdl-cell--8-col mdl-card__supporting-text no-padding">
+                            <p>
+								Finally, I had to code the Arduino to actually act as a game controller. I picked up a few libraries and example code, then modified it to fit.
+								<br><br>
+								A quick test showed that all the buttons registered as gamepad inputs, and all the LEDs lit up whenever the buttons were pressed. A success!
+							</p>
+                        </div>													
+                    </div>
+                </div>
+            </div>
+        </main>				
+	</div>
+  </main>
+</div>
+</body>
+
+</html>

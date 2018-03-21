@@ -1,16 +1,93 @@
-<!DOCTYPE html>
 <html>
+
 <head>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
+  <!-- Material Design Lite -->
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
+  <script src="https://storage.googleapis.com/code.getmdl.io/1.0.2/material.min.js"></script>
+  <link rel="stylesheet" href="css/material.min.css">
+  <!-- Material Design icon font -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 </head>
+
 <body>
-<h1>Hello World!</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<!-- No header, and the drawer stays open on larger screens (fixed drawer). -->
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-drawer">
+  <div class="mdl-layout__drawer">
+    <span class="mdl-layout-title">Oscar Wong</span>
+    <nav class="mdl-navigation">
+      <a class="mdl-navigation__link" href="index.html">Portfolio</a>
+      <a class="mdl-navigation__link" href="about.html">About</a>
+    </nav>
+  </div>
+  <main class="mdl-layout__content mdl-color--blue-grey-700">
+    <div class="page-content"><!-- Your content goes here -->
+	
+		<!-- Square card -->
+		<a href="popn.html">
+			<div class="mdl-card mdl-shadow--2dp demo-card-square">
+				<!-- Image card -->
+				<style>
+					.demo-card-imagepop.mdl-card {
+					width: 320px;
+					height: 320px;
+					background: url('images/popn/11.jpg') center / cover;
+					}
+					.demo-card-imagepop > .mdl-card__actions {
+					height: 52px;
+					padding: 16px;
+					background: rgba(0, 0, 0, 0.5);
+					}
+					.demo-card-image__filename {
+					color: #fff;
+					font-size: 14px;
+					font-weight: 500;
+					}
+
+				</style>			
+				<div class="demo-card-imagepop mdl-card mdl-shadow--2dp">
+				<div class="mdl-card__title mdl-card--expand"></div>
+				<div class="mdl-card__actions">
+					<span class="demo-card-image__filename">Pop'n Music Controller</span>
+				</div>
+				</div>
+			</div>
+		</a>
+		<!-- End of card -->		
+		<!-- Square card -->
+		<a href="coregains.html">
+			<div class="mdl-card mdl-shadow--2dp demo-card-square">
+				<!-- Image card -->
+				<style>
+					.demo-card-imagecore.mdl-card {
+					width: 320px;
+					height: 320px;
+					background: url('images/CoreGains.png') center / cover;
+					}
+					.demo-card-imagecore > .mdl-card__actions {
+					height: 52px;
+					padding: 16px;
+					background: rgba(0, 0, 0, 0.5);
+					}
+					.demo-card-image__filename {
+					color: #fff;
+					font-size: 14px;
+					font-weight: 500;
+					}
+
+				</style>			
+				<div class="demo-card-imagecore mdl-card mdl-shadow--2dp">
+				<div class="mdl-card__title mdl-card--expand"></div>
+				<div class="mdl-card__actions">
+					<span class="demo-card-image__filename">CoreGains Explainer Video</span>
+				</div>
+				</div>
+			</div>
+		</a>
+		<!-- End of card -->	
+		
+	</div>
+  </main>
+</div>
 </body>
+
 </html>
