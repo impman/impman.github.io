@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-20_2156",
-    "currentPage": "about.html",
+    "currentPage": "listingflyer.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -785,7 +785,7 @@
           "_anchor": "header3-p"
         },
         {
-          "text": "<p>I'm Oscar Wong. I'm currently a senior at the University of Illinois at Urbana-Champaign, majoring in Physics and minoring in Materials Science. Here you'll find a selection of some of my personal and professional projects.</p>",
+          "text": "<p>I'm currently a senior at the University of Illinois at Urbana-Champaign, majoring in Physics and minoring in Materials Science. Here you'll find a selection of some of my personal and professional projects.</p>",
           "_tags": [
             "Theme"
           ],
@@ -2425,7 +2425,7 @@
           "_anchor": "header3-48"
         },
         {
-          "text": "A flyer for a home listing done for a local real estate business. The flyer was generated with Adobe InDesign and saved to a template, so that flyers for future listings can be easily created with updated photos and descriptions.",
+          "text": "Multiple flyers for home listings done for a local real estate business. The flyer was generated with Adobe InDesign and saved to a template, so that flyers for other listings were easily created with updated photos and descriptions.",
           "_tags": [
             "Theme"
           ],
@@ -2460,7 +2460,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "The final flyer sent off for printing.",
+          "text": "A sample flyer sent off for printing.",
           "_tags": [
             "Theme"
           ],
