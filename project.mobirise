@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-20_2156",
-    "currentPage": "listingflyer.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -2423,7 +2423,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/a-1400x1812.png",
+              "src": "@PROJECT_PATH@/assets/images/wipe-1400x1812.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
