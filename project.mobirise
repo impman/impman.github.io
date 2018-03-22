@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-20_2156",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,7 +14,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 157,
+    "uniqCompNum": 165,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/impishlogo2.svg",
@@ -785,7 +785,7 @@
           "_anchor": "header3-p"
         },
         {
-          "text": "<p>I'm Oscar Wong. Here you will find a collection of my personal and professional projects.</p>",
+          "text": "<p>I'm Oscar Wong. I'm currently a senior at the University of Illinois at Urbana-Champaign, majoring in Physics and minoring in Materials Science. Here you'll find a selection of some of my personal and professional projects.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1910,7 +1910,7 @@
           "_anchor": "header3-3b"
         },
         {
-          "text": "<p>This was a solution for a MindSumo challenge, where the goal was to create a system that added visual interest to a lineup of pet food treats. The company already had an extruder, so I designed an extrusion attachment that creates a continuous braid of material, which is more visually interesting than a plain extrusion.</p><p>The main extruder is built from two rotating wheels, which rotate in alternating directions in order to braid the treats.</p>",
+          "text": "<p>This was a solution for a MindSumo challenge, where the goal was to create a system that added visual interest to a lineup of pet food treats. The company already had an extruder, so I designed an extrusion attachment that creates a continuous braid of material, which is more visually interesting than a plain extrusion.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1921,6 +1921,27 @@
             }
           },
           "_anchor": "content1-3c"
+        },
+        {
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.mindsumo.com/contests/pet-food-extrusion\" data-toolbar=\"-mbrBtnMove\">LINK TO CHALLENGE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-4j"
+        },
+        {
+          "text": "<p>The main extruder is built from two rotating wheels, which rotate in alternating directions in order to braid the treats.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-4k"
         },
         {
           "_inherit": "slider",
@@ -2263,25 +2284,29 @@
           "_anchor": "image2-43"
         },
         {
-          "text": "The MindSumo challenge page can be viewed here:",
+          "_params": {
+            "showMeta": false
+          },
+          "title": "<div><br></div><br><div>OTHER MINDSUMO CHALLENGES WON:</div>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4i"
+        },
+        {
+          "text": "<p>- How do millennials think about rewards and incentives? \tMar 20, 2018<br></p><p>- How can we put YOUR expectations for home food delivery into practice? \tJan 25, 2018</p><p>- QUICKSOLVE: Tell us about your experience with Mozilla Firefox \tJan 08, 2018&nbsp;</p><p>- Invent a new way to cut acrylic sheet \tNov 28, 2017</p><p>- How can we utilize PHBH fiber to produce effective biodegradable products? \tNov 08, 2017</p><p>- What is the ideal interior experience in your autonomous car? \tOct 20, 2017</p><p>- Do students want a mentor who is nearing retirement? \tOct 12, 2017</p><p>- Can you design a rapidly deployed inflatable scaffold system? \tApr 06, 2017</p><p>- How can we integrate \"electrical\" to our cabinet manufacturing process? \tMar 01, 2017&nbsp;</p><p>- How should we re-engineer kitchen cabinets to make them more accessible? \tDec 19, 2016</p><p>- Propose a non-metallic, fatigue-resistant, material for cyclic loading \tDec 15, 2016</p><p>- Tell us about a new lubricant, coating, or material to reduce friction \tNov 15, 2016 \t\n</p><p>- Tell us about your plan to buy your first house \tOct 26, 2016 \t\n</p><p>- Help us harness consumer information from our pick-up lockers \tOct 04, 2016 \t\n</p><p>- Can you come up with the ultimate car tray for Sonic products? \tSep 30, 2016 \t\n</p><p>- What role can augmented reality play in packaging? \tSep 27, 2016 \t\n</p><p>- Can you envision i-Road as a transportation solution on your campus? \tSep 15, 2016 \t\n</p><p>- Can you design a better metal tin for coffee or tea? \tSep 14, 2016 \t\n</p><p>- How will drones impact the future of engineering and construction? \tSep 08, 2016 \t\n</p><p>- Propose a new way for household faucets and fixtures to conserve water \tAug 31, 2016 \t\n</p><p>- Propose a unique new application for amazing OLED lighting technology \tAug 19, 2016&nbsp;</p><p>- Create a nozzle that keeps sealants fresh \tApr 29, 2016</p><p>- Speed up stabilization for additive packages and petroleum \tMar 08, 2016&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-44",
           "_styles": {
-            "DIV": {
+            "P": {
               "color": "#000000"
             }
-          }
-        },
-        {
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.mindsumo.com/contests/pet-food-extrusion\" data-toolbar=\"-mbrBtnMove\">MINDSUMO</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-45"
+          },
+          "_anchor": "content1-4g"
         },
         {
           "_params": {
