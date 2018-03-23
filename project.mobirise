@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-20_2156",
-    "currentPage": "listingflyer.html",
+    "currentPage": "extrusionbraider.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -356,14 +356,15 @@
               "font-size": "30px"
             },
             ".mbr-header__subtext": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "20px"
             },
             ".mbr-article": {
               "color": "#ffffff"
             }
           },
           "headerAlign": "left",
-          "meta": "MindSumo challenge winner - Top 10%",
+          "meta": "And numerous other MindSumo Challenge Awards",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-3n"
