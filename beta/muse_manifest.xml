@@ -1,29 +1,29 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="impman.github.io" resolutions="1x" timestamp="1521873226213">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="impman.github.io" resolutions="1x" timestamp="1521874218898">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="4095562895" ref="rip10-banner-and-marquee:coregains-explainer-video:◂-mindsumo-challenge-awards:water-saving-faucet:electrical-cabinet-integration:pop-n-music-controller:about:30lb-combat-robot:pet-treat-extrusion-braider:index:real-estate-flyer-design"/>
-    <file name="rip10-banner-and-marquee.css" crc="199601094" ref="rip10-banner-and-marquee"/>
-    <file name="iefonts_rip10-banner-and-marquee.css" crc="345914174" ref="rip10-banner-and-marquee"/>
-    <file name="coregains-explainer-video.css" crc="4009984416" ref="coregains-explainer-video"/>
+    <file name="rip10-banner-and-marquee.css" crc="305316682" ref="rip10-banner-and-marquee"/>
+    <file name="iefonts_rip10-banner-and-marquee.css" crc="4027441575" ref="rip10-banner-and-marquee"/>
+    <file name="coregains-explainer-video.css" crc="469811690" ref="coregains-explainer-video"/>
     <file name="iefonts_coregains-explainer-video.css" crc="138282811" ref="coregains-explainer-video"/>
-    <file name="_-mindsumo-challenge-awards.css" crc="199601094" ref="◂-mindsumo-challenge-awards"/>
+    <file name="_-mindsumo-challenge-awards.css" crc="4207515256" ref="◂-mindsumo-challenge-awards"/>
     <file name="iefonts__-mindsumo-challenge-awards.css" crc="345914174" ref="◂-mindsumo-challenge-awards"/>
-    <file name="water-saving-faucet.css" crc="199601094" ref="water-saving-faucet"/>
+    <file name="water-saving-faucet.css" crc="4207515256" ref="water-saving-faucet"/>
     <file name="iefonts_water-saving-faucet.css" crc="345914174" ref="water-saving-faucet"/>
-    <file name="electrical-cabinet-integration.css" crc="199601094" ref="electrical-cabinet-integration"/>
+    <file name="electrical-cabinet-integration.css" crc="4207515256" ref="electrical-cabinet-integration"/>
     <file name="iefonts_electrical-cabinet-integration.css" crc="345914174" ref="electrical-cabinet-integration"/>
-    <file name="pop-n-music-controller.css" crc="4117283035" ref="pop-n-music-controller"/>
+    <file name="pop-n-music-controller.css" crc="445624129" ref="pop-n-music-controller"/>
     <file name="iefonts_pop-n-music-controller.css" crc="158495483" ref="pop-n-music-controller"/>
-    <file name="about.css" crc="199601094" ref="about"/>
+    <file name="about.css" crc="4207515256" ref="about"/>
     <file name="iefonts_about.css" crc="345914174" ref="about"/>
-    <file name="30lb-combat-robot.css" crc="3770752962" ref="30lb-combat-robot"/>
+    <file name="30lb-combat-robot.css" crc="453250667" ref="30lb-combat-robot"/>
     <file name="iefonts_30lb-combat-robot.css" crc="353344738" ref="30lb-combat-robot"/>
-    <file name="pet-treat-extrusion-braider.css" crc="199601094" ref="pet-treat-extrusion-braider"/>
+    <file name="pet-treat-extrusion-braider.css" crc="4207515256" ref="pet-treat-extrusion-braider"/>
     <file name="iefonts_pet-treat-extrusion-braider.css" crc="345914174" ref="pet-treat-extrusion-braider"/>
-    <file name="index.css" crc="4080693243" ref="index"/>
+    <file name="index.css" crc="407508473" ref="index"/>
     <file name="iefonts_index.css" crc="4063434705" ref="index"/>
-    <file name="real-estate-flyer-design.css" crc="199601094" ref="real-estate-flyer-design"/>
-    <file name="iefonts_real-estate-flyer-design.css" crc="345914174" ref="real-estate-flyer-design"/>
+    <file name="real-estate-flyer-design.css" crc="4208984380" ref="real-estate-flyer-design"/>
+    <file name="iefonts_real-estate-flyer-design.css" crc="4214494199" ref="real-estate-flyer-design"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:30lb-combat-robot:pop-n-music-controller:coregains-explainer-video:◂-mindsumo-challenge-awards:rip10-banner-and-marquee:pet-treat-extrusion-braider:water-saving-faucet:electrical-cabinet-integration:real-estate-flyer-design"/>
@@ -116,16 +116,25 @@
     <file name="before.jpg" crc="43302418" seo="true" ref="coregains-explainer-video">
       <caption webpage="coregains-explainer-video" alt=""/>
     </file>
+    <file name="banner.jpg" crc="3826632001" seo="true" ref="rip10-banner-and-marquee">
+      <caption webpage="rip10-banner-and-marquee" alt=""/>
+    </file>
+    <file name="marqueesmall.png" crc="3824122439" seo="true" ref="rip10-banner-and-marquee">
+      <caption webpage="rip10-banner-and-marquee" alt=""/>
+    </file>
+    <file name="wipe.jpg" crc="502524623" seo="true" ref="real-estate-flyer-design">
+      <caption webpage="real-estate-flyer-design" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4142964314" seo="true" mt="1521872262742" redirect="true"/>
-  <file name="about.html" crc="3951301037" seo="true" mt="1521872262743" redirect="true"/>
-  <file name="30lb-combat-robot.html" crc="3884900620" seo="true" mt="1521872271822" redirect="true"/>
-  <file name="pop-n-music-controller.html" crc="456628683" seo="true" mt="1521872286753" redirect="true"/>
-  <file name="coregains-explainer-video.html" crc="4209108041" seo="true" mt="1521873180514" redirect="true"/>
-  <file name="◂-mindsumo-challenge-awards.html" crc="295553180" seo="true" mt="1521872262746" redirect="true"/>
-  <file name="rip10-banner-and-marquee.html" crc="4106073220" seo="true" mt="1521872262747" redirect="true"/>
-  <file name="pet-treat-extrusion-braider.html" crc="4269742105" seo="true" mt="1521872262749" redirect="true"/>
-  <file name="water-saving-faucet.html" crc="3823298007" seo="true" mt="1521872262750" redirect="true"/>
-  <file name="electrical-cabinet-integration.html" crc="79109461" seo="true" mt="1521872262750" redirect="true"/>
-  <file name="real-estate-flyer-design.html" crc="3884684288" seo="true" mt="1521872262748" redirect="true"/>
+  <file name="index.html" crc="3812851766" seo="true" mt="1521873496089" redirect="true"/>
+  <file name="about.html" crc="90299294" seo="true" mt="1521873496089" redirect="true"/>
+  <file name="30lb-combat-robot.html" crc="261595786" seo="true" mt="1521873496089" redirect="true"/>
+  <file name="pop-n-music-controller.html" crc="31951570" seo="true" mt="1521873496089" redirect="true"/>
+  <file name="coregains-explainer-video.html" crc="19376216" seo="true" mt="1521873496089" redirect="true"/>
+  <file name="◂-mindsumo-challenge-awards.html" crc="49811388" seo="true" mt="1521873496089" redirect="true"/>
+  <file name="rip10-banner-and-marquee.html" crc="450723353" seo="true" mt="1521874064627" redirect="true"/>
+  <file name="pet-treat-extrusion-braider.html" crc="525745701" seo="true" mt="1521873496089" redirect="true"/>
+  <file name="water-saving-faucet.html" crc="4231822927" seo="true" mt="1521873496089" redirect="true"/>
+  <file name="electrical-cabinet-integration.html" crc="303293674" seo="true" mt="1521873496089" redirect="true"/>
+  <file name="real-estate-flyer-design.html" crc="256358602" seo="true" mt="1521874190476" redirect="true"/>
 </manifest>

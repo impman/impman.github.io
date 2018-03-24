@@ -95,6 +95,12 @@
     <lastmod>2018-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://impman.github.io/images/banner.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/marqueesmall.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://impman.github.io/pet-treat-extrusion-braider.html</loc>
@@ -119,5 +125,8 @@
     <lastmod>2018-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://impman.github.io/images/wipe.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
