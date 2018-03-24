@@ -101,6 +101,45 @@
     <lastmod>2018-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://impman.github.io/images/wheelcenter.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/wheelcenter2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/wheeledge.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/wheeledge2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/centerplate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/endplate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/drivewheel.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/drivewheel2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/assembly.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/assembly2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/assembly3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/assemblyexplode.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/animation.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://impman.github.io/water-saving-faucet.html</loc>
