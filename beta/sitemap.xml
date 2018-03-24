@@ -1,70 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://impman.github.io/beta/index.html</loc>
+    <loc>http://impman.github.io/index.html</loc>
     <lastmod>2018-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://impman.github.io/beta/about.html</loc>
+    <loc>http://impman.github.io/about.html</loc>
     <lastmod>2018-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://impman.github.io/beta/30lb-combat-robot.html</loc>
+    <loc>http://impman.github.io/30lb-combat-robot.html</loc>
     <lastmod>2018-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://impman.github.io/beta/images/bom.jpg</image:loc>
+      <image:loc>http://impman.github.io/images/bom.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/cad.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/cut.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/robot.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://impman.github.io/beta/pop-n-music-controller.html</loc>
+    <loc>http://impman.github.io/pop-n-music-controller.html</loc>
     <lastmod>2018-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://impman.github.io/beta/coregains-explainer-video.html</loc>
+    <loc>http://impman.github.io/coregains-explainer-video.html</loc>
     <lastmod>2018-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://impman.github.io/beta/%E2%97%82-mindsumo-challenge-awards.html</loc>
+    <loc>http://impman.github.io/%E2%97%82-mindsumo-challenge-awards.html</loc>
     <lastmod>2018-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://impman.github.io/beta/rip10-banner-and-marquee.html</loc>
+    <loc>http://impman.github.io/rip10-banner-and-marquee.html</loc>
     <lastmod>2018-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://impman.github.io/beta/real-estate-listing-flyer.html</loc>
+    <loc>http://impman.github.io/pet-treat-extrusion-braider.html</loc>
     <lastmod>2018-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://impman.github.io/beta/pet-treat-extrusion-braider.html</loc>
+    <loc>http://impman.github.io/water-saving-faucet.html</loc>
     <lastmod>2018-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://impman.github.io/beta/water-saving-faucet.html</loc>
+    <loc>http://impman.github.io/electrical-cabinet-integration.html</loc>
     <lastmod>2018-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://impman.github.io/beta/electrical-cabinet-integration.html</loc>
+    <loc>http://impman.github.io/real-estate-flyer-design.html</loc>
     <lastmod>2018-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
