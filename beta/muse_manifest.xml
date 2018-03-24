@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="impman.github.io" resolutions="1x" timestamp="1521874218898">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="impman.github.io" resolutions="1x" timestamp="1521876626534">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="4095562895" ref="rip10-banner-and-marquee:coregains-explainer-video:◂-mindsumo-challenge-awards:water-saving-faucet:electrical-cabinet-integration:pop-n-music-controller:about:30lb-combat-robot:pet-treat-extrusion-braider:index:real-estate-flyer-design"/>
+    <file name="master_a-master.css" crc="218991089" ref="rip10-banner-and-marquee:coregains-explainer-video:◂-mindsumo-challenge-awards:water-saving-faucet:electrical-cabinet-integration:pop-n-music-controller:about:30lb-combat-robot:pet-treat-extrusion-braider:index:real-estate-flyer-design"/>
     <file name="rip10-banner-and-marquee.css" crc="305316682" ref="rip10-banner-and-marquee"/>
     <file name="iefonts_rip10-banner-and-marquee.css" crc="4027441575" ref="rip10-banner-and-marquee"/>
     <file name="coregains-explainer-video.css" crc="469811690" ref="coregains-explainer-video"/>
     <file name="iefonts_coregains-explainer-video.css" crc="138282811" ref="coregains-explainer-video"/>
-    <file name="_-mindsumo-challenge-awards.css" crc="4207515256" ref="◂-mindsumo-challenge-awards"/>
-    <file name="iefonts__-mindsumo-challenge-awards.css" crc="345914174" ref="◂-mindsumo-challenge-awards"/>
+    <file name="_-mindsumo-challenge-awards.css" crc="192052717" ref="◂-mindsumo-challenge-awards"/>
+    <file name="iefonts__-mindsumo-challenge-awards.css" crc="425663224" ref="◂-mindsumo-challenge-awards"/>
     <file name="water-saving-faucet.css" crc="4207515256" ref="water-saving-faucet"/>
     <file name="iefonts_water-saving-faucet.css" crc="345914174" ref="water-saving-faucet"/>
     <file name="electrical-cabinet-integration.css" crc="4207515256" ref="electrical-cabinet-integration"/>
@@ -48,7 +48,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="pop-n-music-controller" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:pop-n-music-controller:coregains-explainer-video"/>
+    <file name="blank.gif" crc="4208392903" ref="index:pop-n-music-controller:coregains-explainer-video:◂-mindsumo-challenge-awards"/>
     <file name="cad.jpg" crc="3966208709" seo="true" ref="30lb-combat-robot">
       <caption webpage="30lb-combat-robot" alt=""/>
     </file>
@@ -131,7 +131,7 @@
   <file name="30lb-combat-robot.html" crc="261595786" seo="true" mt="1521873496089" redirect="true"/>
   <file name="pop-n-music-controller.html" crc="31951570" seo="true" mt="1521873496089" redirect="true"/>
   <file name="coregains-explainer-video.html" crc="19376216" seo="true" mt="1521873496089" redirect="true"/>
-  <file name="◂-mindsumo-challenge-awards.html" crc="49811388" seo="true" mt="1521873496089" redirect="true"/>
+  <file name="◂-mindsumo-challenge-awards.html" crc="278912956" seo="true" mt="1521876577449" redirect="true"/>
   <file name="rip10-banner-and-marquee.html" crc="450723353" seo="true" mt="1521874064627" redirect="true"/>
   <file name="pet-treat-extrusion-braider.html" crc="525745701" seo="true" mt="1521873496089" redirect="true"/>
   <file name="water-saving-faucet.html" crc="4231822927" seo="true" mt="1521873496089" redirect="true"/>
