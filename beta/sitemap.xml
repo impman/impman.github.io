@@ -35,12 +35,54 @@
     <lastmod>2018-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://impman.github.io/images/11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/14.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://impman.github.io/coregains-explainer-video.html</loc>
     <lastmod>2018-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://impman.github.io/images/after.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://impman.github.io/images/before.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://impman.github.io/%E2%97%82-mindsumo-challenge-awards.html</loc>
