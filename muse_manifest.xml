@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="impman.github.io" resolutions="1x" timestamp="1522017415525">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="impman.github.io" resolutions="1x" timestamp="1522018504615">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3909036103" ref="index:pet-treat-extrusion-braider:mindsumo-challenge-awards-▾:30lb-combat-robot:water-saving-faucet:rip10-banner-and-marquee:pop-n-music-controller:kitchen-cabinet-accessibility:about:coregains-promotional-video:real-estate-flyer-design"/>
+    <file name="master_a-master.css" crc="4294466723" ref="index:pet-treat-extrusion-braider:mindsumo-challenge-awards-▾:30lb-combat-robot:water-saving-faucet:rip10-banner-and-marquee:pop-n-music-controller:kitchen-cabinet-accessibility:about:coregains-promotional-video:real-estate-flyer-design"/>
     <file name="index.css" crc="335423979" ref="index"/>
     <file name="iefonts_index.css" crc="4022290651" ref="index"/>
     <file name="pet-treat-extrusion-braider.css" crc="87137794" ref="pet-treat-extrusion-braider"/>
@@ -14,7 +14,7 @@
     <file name="iefonts_water-saving-faucet.css" crc="4035008913" ref="water-saving-faucet"/>
     <file name="rip10-banner-and-marquee.css" crc="3797096581" ref="rip10-banner-and-marquee"/>
     <file name="iefonts_rip10-banner-and-marquee.css" crc="523532167" ref="rip10-banner-and-marquee"/>
-    <file name="pop-n-music-controller.css" crc="4025233186" ref="pop-n-music-controller"/>
+    <file name="pop-n-music-controller.css" crc="241591804" ref="pop-n-music-controller"/>
     <file name="iefonts_pop-n-music-controller.css" crc="4015539971" ref="pop-n-music-controller"/>
     <file name="kitchen-cabinet-accessibility.css" crc="3885124207" ref="kitchen-cabinet-accessibility"/>
     <file name="iefonts_kitchen-cabinet-accessibility.css" crc="4072066153" ref="kitchen-cabinet-accessibility"/>
@@ -41,7 +41,7 @@
     <file name="touchswipe.js" crc="4228958816" ref="pop-n-music-controller:coregains-promotional-video:pet-treat-extrusion-braider"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="332278209" ref="index"/>
+    <file name="favicon.ico" crc="332278209" ref="index:pop-n-music-controller"/>
     <file name="combot.jpg" crc="279049185" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -183,7 +183,7 @@
   <file name="index.html" crc="116790655" seo="true" mt="1522016042000" redirect="true"/>
   <file name="about.html" crc="4240624146" seo="true" mt="1522016042000" redirect="true"/>
   <file name="30lb-combat-robot.html" crc="4043712924" seo="true" mt="1522016042000" redirect="true"/>
-  <file name="pop-n-music-controller.html" crc="3823703418" seo="true" mt="1522016042000" redirect="true"/>
+  <file name="pop-n-music-controller.html" crc="420291977" seo="true" mt="1522018476611" redirect="true"/>
   <file name="coregains-promotional-video.html" crc="279100695" seo="true" mt="1522016042000" redirect="true"/>
   <file name="mindsumo-challenge-awards-▾.html" crc="319008385" seo="true" mt="1522017323559" redirect="true"/>
   <file name="rip10-banner-and-marquee.html" crc="4009211025" seo="true" mt="1522016042000" redirect="true"/>
