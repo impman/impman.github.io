@@ -1,0 +1,194 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="impman.github.io" resolutions="1x" timestamp="1522017415525">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="3909036103" ref="index:pet-treat-extrusion-braider:mindsumo-challenge-awards-▾:30lb-combat-robot:water-saving-faucet:rip10-banner-and-marquee:pop-n-music-controller:kitchen-cabinet-accessibility:about:coregains-promotional-video:real-estate-flyer-design"/>
+    <file name="index.css" crc="335423979" ref="index"/>
+    <file name="iefonts_index.css" crc="4022290651" ref="index"/>
+    <file name="pet-treat-extrusion-braider.css" crc="87137794" ref="pet-treat-extrusion-braider"/>
+    <file name="iefonts_pet-treat-extrusion-braider.css" crc="4284935669" ref="pet-treat-extrusion-braider"/>
+    <file name="mindsumo-challenge-awards-_.css" crc="3892619533" ref="mindsumo-challenge-awards-▾"/>
+    <file name="iefonts_mindsumo-challenge-awards-_.css" crc="3862386042" ref="mindsumo-challenge-awards-▾"/>
+    <file name="30lb-combat-robot.css" crc="29246554" ref="30lb-combat-robot"/>
+    <file name="iefonts_30lb-combat-robot.css" crc="162662018" ref="30lb-combat-robot"/>
+    <file name="water-saving-faucet.css" crc="207097630" ref="water-saving-faucet"/>
+    <file name="iefonts_water-saving-faucet.css" crc="4035008913" ref="water-saving-faucet"/>
+    <file name="rip10-banner-and-marquee.css" crc="3797096581" ref="rip10-banner-and-marquee"/>
+    <file name="iefonts_rip10-banner-and-marquee.css" crc="523532167" ref="rip10-banner-and-marquee"/>
+    <file name="pop-n-music-controller.css" crc="4025233186" ref="pop-n-music-controller"/>
+    <file name="iefonts_pop-n-music-controller.css" crc="4015539971" ref="pop-n-music-controller"/>
+    <file name="kitchen-cabinet-accessibility.css" crc="3885124207" ref="kitchen-cabinet-accessibility"/>
+    <file name="iefonts_kitchen-cabinet-accessibility.css" crc="4072066153" ref="kitchen-cabinet-accessibility"/>
+    <file name="about.css" crc="4210579556" ref="about"/>
+    <file name="iefonts_about.css" crc="4113945734" ref="about"/>
+    <file name="coregains-promotional-video.css" crc="3760110607" ref="coregains-promotional-video"/>
+    <file name="iefonts_coregains-promotional-video.css" crc="145706882" ref="coregains-promotional-video"/>
+    <file name="real-estate-flyer-design.css" crc="528239794" ref="real-estate-flyer-design"/>
+    <file name="iefonts_real-estate-flyer-design.css" crc="300417862" ref="real-estate-flyer-design"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:30lb-combat-robot:pop-n-music-controller:coregains-promotional-video:mindsumo-challenge-awards-▾:rip10-banner-and-marquee:real-estate-flyer-design:pet-treat-extrusion-braider:water-saving-faucet:kitchen-cabinet-accessibility"/>
+    <file name="museutils.js" crc="46400467" ref="index:about:30lb-combat-robot:pop-n-music-controller:coregains-promotional-video:mindsumo-challenge-awards-▾:rip10-banner-and-marquee:real-estate-flyer-design:pet-treat-extrusion-braider:water-saving-faucet:kitchen-cabinet-accessibility"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:30lb-combat-robot:pop-n-music-controller:coregains-promotional-video:mindsumo-challenge-awards-▾:rip10-banner-and-marquee:real-estate-flyer-design:pet-treat-extrusion-braider:water-saving-faucet:kitchen-cabinet-accessibility"/>
+    <file name="museconfig.js" crc="436936948" ref="index:about:30lb-combat-robot:pop-n-music-controller:coregains-promotional-video:mindsumo-challenge-awards-▾:rip10-banner-and-marquee:real-estate-flyer-design:pet-treat-extrusion-braider:water-saving-faucet:kitchen-cabinet-accessibility"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:about:30lb-combat-robot:pop-n-music-controller:coregains-promotional-video:mindsumo-challenge-awards-▾:rip10-banner-and-marquee:real-estate-flyer-design:pet-treat-extrusion-braider:water-saving-faucet:kitchen-cabinet-accessibility"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:about:30lb-combat-robot:pop-n-music-controller:coregains-promotional-video:mindsumo-challenge-awards-▾:rip10-banner-and-marquee:real-estate-flyer-design:pet-treat-extrusion-braider:water-saving-faucet:kitchen-cabinet-accessibility"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:30lb-combat-robot:pop-n-music-controller:coregains-promotional-video:mindsumo-challenge-awards-▾:rip10-banner-and-marquee:real-estate-flyer-design:pet-treat-extrusion-braider:water-saving-faucet:kitchen-cabinet-accessibility"/>
+    <file name="require.js" crc="85721165" ref="index:about:30lb-combat-robot:pop-n-music-controller:coregains-promotional-video:mindsumo-challenge-awards-▾:rip10-banner-and-marquee:real-estate-flyer-design:pet-treat-extrusion-braider:water-saving-faucet:kitchen-cabinet-accessibility"/>
+    <file name="webpro.js" crc="4152390327" ref="pop-n-music-controller:coregains-promotional-video:pet-treat-extrusion-braider"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="pop-n-music-controller:coregains-promotional-video:pet-treat-extrusion-braider"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="pop-n-music-controller:coregains-promotional-video:pet-treat-extrusion-braider"/>
+    <file name="touchswipe.js" crc="4228958816" ref="pop-n-music-controller:coregains-promotional-video:pet-treat-extrusion-braider"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="332278209" ref="index"/>
+    <file name="combot.jpg" crc="279049185" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="popn.jpg" crc="220320410" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="extrusionbraider.jpg" crc="3813240670" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coregains.png" crc="4268494976" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="marquee.png" crc="3843462277" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flyer.jpg" crc="4284351382" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bom.jpg" crc="4254388193" seo="true" ref="30lb-combat-robot">
+      <caption webpage="30lb-combat-robot" alt=""/>
+    </file>
+    <file name="cad.jpg" crc="3966208709" seo="true" ref="30lb-combat-robot">
+      <caption webpage="30lb-combat-robot" alt=""/>
+    </file>
+    <file name="cut.jpg" crc="4198100466" seo="true" ref="30lb-combat-robot">
+      <caption webpage="30lb-combat-robot" alt=""/>
+    </file>
+    <file name="robot.jpg" crc="484107123" seo="true" ref="30lb-combat-robot">
+      <caption webpage="30lb-combat-robot" alt=""/>
+    </file>
+    <file name="1.jpg" crc="440287890" seo="true" ref="pop-n-music-controller">
+      <caption webpage="pop-n-music-controller" alt=""/>
+    </file>
+    <file name="2.jpg" crc="3942185803" seo="true" ref="pop-n-music-controller">
+      <caption webpage="pop-n-music-controller" alt=""/>
+    </file>
+    <file name="3.jpg" crc="123974698" seo="true" ref="pop-n-music-controller">
+      <caption webpage="pop-n-music-controller" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="pop-n-music-controller:coregains-promotional-video:pet-treat-extrusion-braider"/>
+    <file name="4.jpg" crc="4093163300" seo="true" ref="pop-n-music-controller">
+      <caption webpage="pop-n-music-controller" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="pop-n-music-controller:coregains-promotional-video:pet-treat-extrusion-braider"/>
+    <file name="5.jpg" crc="530961724" seo="true" ref="pop-n-music-controller">
+      <caption webpage="pop-n-music-controller" alt=""/>
+    </file>
+    <file name="8.jpg" crc="3762996236" seo="true" ref="pop-n-music-controller">
+      <caption webpage="pop-n-music-controller" alt=""/>
+    </file>
+    <file name="9.jpg" crc="228935408" seo="true" ref="pop-n-music-controller">
+      <caption webpage="pop-n-music-controller" alt=""/>
+    </file>
+    <file name="10.jpg" crc="4063628335" seo="true" ref="pop-n-music-controller">
+      <caption webpage="pop-n-music-controller" alt=""/>
+    </file>
+    <file name="11.jpg" crc="419775342" seo="true" ref="pop-n-music-controller">
+      <caption webpage="pop-n-music-controller" alt=""/>
+    </file>
+    <file name="12.jpg" crc="490511039" seo="true" ref="pop-n-music-controller">
+      <caption webpage="pop-n-music-controller" alt=""/>
+    </file>
+    <file name="13.jpg" crc="3822636053" seo="true" ref="pop-n-music-controller">
+      <caption webpage="pop-n-music-controller" alt=""/>
+    </file>
+    <file name="14.jpg" crc="406243062" seo="true" ref="pop-n-music-controller">
+      <caption webpage="pop-n-music-controller" alt=""/>
+    </file>
+    <file name="after.png" crc="482442293" seo="true" ref="coregains-promotional-video">
+      <caption webpage="coregains-promotional-video" alt=""/>
+    </file>
+    <file name="before.jpg" crc="43302418" seo="true" ref="coregains-promotional-video">
+      <caption webpage="coregains-promotional-video" alt=""/>
+    </file>
+    <file name="banner.jpg" crc="3826632001" seo="true" ref="rip10-banner-and-marquee">
+      <caption webpage="rip10-banner-and-marquee" alt=""/>
+    </file>
+    <file name="marqueesmall.png" crc="3824122439" seo="true" ref="rip10-banner-and-marquee">
+      <caption webpage="rip10-banner-and-marquee" alt=""/>
+    </file>
+    <file name="wipe.jpg" crc="502524623" seo="true" ref="real-estate-flyer-design">
+      <caption webpage="real-estate-flyer-design" alt=""/>
+    </file>
+    <file name="wheelcenter.jpg" crc="4289340821" seo="true" ref="pet-treat-extrusion-braider">
+      <caption webpage="pet-treat-extrusion-braider" alt=""/>
+    </file>
+    <file name="wheelcenter2.jpg" crc="278334707" seo="true" ref="pet-treat-extrusion-braider">
+      <caption webpage="pet-treat-extrusion-braider" alt=""/>
+    </file>
+    <file name="wheeledge.jpg" crc="529934286" seo="true" ref="pet-treat-extrusion-braider">
+      <caption webpage="pet-treat-extrusion-braider" alt=""/>
+    </file>
+    <file name="wheeledge2.jpg" crc="491689649" seo="true" ref="pet-treat-extrusion-braider">
+      <caption webpage="pet-treat-extrusion-braider" alt=""/>
+    </file>
+    <file name="centerplate.jpg" crc="397903506" seo="true" ref="pet-treat-extrusion-braider">
+      <caption webpage="pet-treat-extrusion-braider" alt=""/>
+    </file>
+    <file name="endplate.jpg" crc="4246985586" seo="true" ref="pet-treat-extrusion-braider">
+      <caption webpage="pet-treat-extrusion-braider" alt=""/>
+    </file>
+    <file name="drivewheel.jpg" crc="328658981" seo="true" ref="pet-treat-extrusion-braider">
+      <caption webpage="pet-treat-extrusion-braider" alt=""/>
+    </file>
+    <file name="drivewheel2.jpg" crc="371897496" seo="true" ref="pet-treat-extrusion-braider">
+      <caption webpage="pet-treat-extrusion-braider" alt=""/>
+    </file>
+    <file name="assembly.jpg" crc="3917940113" seo="true" ref="pet-treat-extrusion-braider">
+      <caption webpage="pet-treat-extrusion-braider" alt=""/>
+    </file>
+    <file name="assembly2.jpg" crc="3814496448" seo="true" ref="pet-treat-extrusion-braider">
+      <caption webpage="pet-treat-extrusion-braider" alt=""/>
+    </file>
+    <file name="assembly3.jpg" crc="4075229954" seo="true" ref="pet-treat-extrusion-braider">
+      <caption webpage="pet-treat-extrusion-braider" alt=""/>
+    </file>
+    <file name="assemblyexplode.jpg" crc="329868125" seo="true" ref="pet-treat-extrusion-braider">
+      <caption webpage="pet-treat-extrusion-braider" alt=""/>
+    </file>
+    <file name="animation.gif" crc="4232701363" seo="true" ref="pet-treat-extrusion-braider">
+      <caption webpage="pet-treat-extrusion-braider" alt=""/>
+    </file>
+    <file name="faucetdiagram.jpg" crc="519412367" seo="true" ref="water-saving-faucet">
+      <caption webpage="water-saving-faucet" alt=""/>
+    </file>
+    <file name="detent.jpg" crc="72416497" seo="true" ref="water-saving-faucet">
+      <caption webpage="water-saving-faucet" alt=""/>
+    </file>
+    <file name="1initial.jpg" crc="225271323" seo="true" ref="kitchen-cabinet-accessibility">
+      <caption webpage="kitchen-cabinet-accessibility" alt=""/>
+    </file>
+    <file name="2extended.jpg" crc="4293246627" seo="true" ref="kitchen-cabinet-accessibility">
+      <caption webpage="kitchen-cabinet-accessibility" alt=""/>
+    </file>
+    <file name="3down.jpg" crc="44109049" seo="true" ref="kitchen-cabinet-accessibility">
+      <caption webpage="kitchen-cabinet-accessibility" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="116790655" seo="true" mt="1522016042000" redirect="true"/>
+  <file name="about.html" crc="4240624146" seo="true" mt="1522016042000" redirect="true"/>
+  <file name="30lb-combat-robot.html" crc="4043712924" seo="true" mt="1522016042000" redirect="true"/>
+  <file name="pop-n-music-controller.html" crc="3823703418" seo="true" mt="1522016042000" redirect="true"/>
+  <file name="coregains-promotional-video.html" crc="279100695" seo="true" mt="1522016042000" redirect="true"/>
+  <file name="mindsumo-challenge-awards-▾.html" crc="319008385" seo="true" mt="1522017323559" redirect="true"/>
+  <file name="rip10-banner-and-marquee.html" crc="4009211025" seo="true" mt="1522016042000" redirect="true"/>
+  <file name="real-estate-flyer-design.html" crc="4042296158" seo="true" mt="1522016042000" redirect="true"/>
+  <file name="pet-treat-extrusion-braider.html" crc="98213713" seo="true" mt="1522016042000" redirect="true"/>
+  <file name="water-saving-faucet.html" crc="96281203" seo="true" mt="1522017085520" redirect="true"/>
+  <file name="kitchen-cabinet-accessibility.html" crc="4242282175" seo="true" mt="1522017014276" redirect="true"/>
+</manifest>
